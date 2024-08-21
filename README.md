@@ -86,7 +86,7 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashish-maharana&show_icons=true&locale=en&layout=compact" alt="debashish-maharana" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=debashish-maharana&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=debashish-maharana&theme=codeSTACKr&show_icons=true&hide=contribs,prs)
     
 </p>
 
