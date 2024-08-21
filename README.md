@@ -18,8 +18,8 @@
   <a href="tel:+916201162735" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="tel:+916201162735" /></a>
   <a href="https://www.hackerrank.com/profile/Debashiiish" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> 
 
-<h3 align="left">About me:</h3>
 - <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="java" width="20" height="20"/> I’m currently working on **Multiple Disease Predictor**
 
 - <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="java" width="20" height="20"/> I’m currently learning **Streamlit, Convolutional Neural Network (CNN) Models and other ML models**
