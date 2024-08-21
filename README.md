@@ -81,9 +81,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> 
 
-<p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debashish-maharana&theme=codeSTACKr&show_icons=true" alt="debashish-maharana" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debashish-maharana&theme=codeSTACKr&show_icons=true&border_color=d9d9d9" alt="debashish-maharana" />
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
