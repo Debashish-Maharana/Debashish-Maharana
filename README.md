@@ -13,6 +13,7 @@
 <p align="left"> <a href="https://twitter.com/debashish46310" target="blank"><img src="https://img.shields.io/twitter/follow/debashish46310?logo=twitter&style=for-the-badge" alt="debashish46310" /></a> </p>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 
 - <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="java" width="20" height="20"/> I’m currently working on **Multiple Disease Predictor**
 
