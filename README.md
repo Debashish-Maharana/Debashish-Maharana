@@ -83,9 +83,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashish-maharana&show_icons=true&locale=en&layout=compact" alt="debashish-maharana" />
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=debashish-maharana&show_icons=true&theme=radical)
+<p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=debashish-maharana&show_icons=true&theme=dark)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashish-maharana&show_icons=true&locale=en&layout=compact" alt="debashish-maharana" />
+    
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> 
