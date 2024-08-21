@@ -82,13 +82,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashish-maharana&show_icons=true&locale=en&layout=compact" alt="debashish-maharana" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debashish-maharana&theme=dark&show_icons=true" alt="debashish-maharana" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> 
 
