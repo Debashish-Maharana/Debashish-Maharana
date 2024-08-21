@@ -12,9 +12,14 @@
 
 <p align="left"> <a href="https://twitter.com/debashish46310" target="blank"><img src="https://img.shields.io/twitter/follow/debashish46310?logo=twitter&style=for-the-badge" alt="debashish46310" /></a> </p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<a href="https://maharanadebu@gmail.com" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/debashishmaharana/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/debashishmaharana/" /></a>
+  <a href="https://twitter.com/debashish46310" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="debashish46310" /></a>
+  <a href="mailto:https://maharanadebu@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://maharanadebu@gmail.com" /></a>
+  <a href="tel:+916201162735" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="tel:+916201162735" /></a>
+  <a href="https://www.hackerrank.com/profile/Debashiiish" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+</p>
 
 - <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="java" width="20" height="20"/> I’m currently working on **Multiple Disease Predictor**
 
@@ -29,13 +34,6 @@
 - 📫 How to reach me **maharanadebu@gmail.com**
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> </a> 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.hackerrank.com/profile/Debashiiish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@debashiiish" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/debashishmaharana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debashishmaharana/" height="30" width="40" /></a>
-  <a href="https://twitter.com/debashish46310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debashish46310" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
