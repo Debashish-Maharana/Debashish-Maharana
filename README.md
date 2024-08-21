@@ -87,6 +87,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> 
 
