@@ -1,5 +1,5 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> </a> 
-![MasterHead](https://camo.githubusercontent.com/9a8b447eca6226c059ecca43ed3f16268816e4fdd7045d7ff34cbcfee323de2e/68747470733a2f2f7777772e64726f6e6168712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f62616e6e65722d64617461626173652d6775692e737667)
+![MasterHead](https://user-images.githubusercontent.com/53512084/196909369-4d71c4bd-5949-4f7d-a228-5db72ac61130.gif)
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> </a> 
 
 <h1 align="center">  Hi 👋, I'm Debashish Maharana ✈️ </h1>
