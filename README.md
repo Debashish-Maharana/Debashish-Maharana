@@ -6,11 +6,9 @@
 <h2 align="center">A passionate Machine Learning developer from India 🇮🇳</h2>
 
 <img align="center" alt="Coding" width="1600" height="160" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> </a> 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashish-maharana&label=Profile%20views&color=0e75b6&style=flat" alt="debashish-maharana" /> </p>
-
-<p align="left"> <a href="https://twitter.com/debashish46310" target="blank"><img src="https://img.shields.io/twitter/follow/debashish46310?logo=twitter&style=for-the-badge" alt="debashish46310" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
