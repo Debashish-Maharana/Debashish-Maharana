@@ -83,19 +83,14 @@
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debashish-maharana&theme=codeSTACKr&show_icons=true&border_color=d9d9d9" alt="debashish-maharana" />
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-maharana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  <p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a></p>
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=debashish-maharana" />
+    </a>
   
-
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debashish-maharana&layout=compact&langs_count=8&card_width=320" />
+  </a>  </p>
+  
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="java" width="1200" height="10"/> 
